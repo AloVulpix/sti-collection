@@ -1,0 +1,4 @@
+test/main.txt:sti-button,sti-col
+test/test1/1-1.txt:sti-ui
+test/test1/test1-1/1-2.txt:sti-table
+test/test2/2-1.txt:sti-ui
